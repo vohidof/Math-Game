@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="savollarni_sonini_kiriting">Savollarni sonini kiriting</string>
+    <string name="ismingizni_kiriting">Ismingizni kiriting</string>
+    <string name="mathgame">MathGame</string>
+    <string name="keyingi">keyingi</string>
+</resources>
